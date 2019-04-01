@@ -8,7 +8,7 @@ def initialize
 end
 
 def learn(tips)
-
+@knowledge << tips
 end
 
 
